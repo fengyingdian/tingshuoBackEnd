@@ -1,0 +1,5 @@
+.idea/
+static/
+*.cfg
+*.txt
+*.pyc
